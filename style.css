@@ -1,4 +1,38 @@
 body {
-    padding-top: 5%;
-    background-color: #151515;
-  }
+  padding-top: 5%;
+  background-color: #151515;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 500%;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 200%;
+}
+
+h3 {
+  color: #ffffff;
+  font-size: 150%;
+}
+
+h4 {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 70%;
+}
+
+p {
+  color: #b4b3b3;
+  font-size: 125%;
+}
+
+.mt {
+  margin-top: 5%;
+}
+
+#link1 {
+  color: #ffffff;
+}
